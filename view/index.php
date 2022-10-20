@@ -57,7 +57,6 @@
                     </div>
                 </div>
 
-                <!-- Submit button -->
                 <button type="submit" class="btn btn-primary btn-block">Entrar</button>
             </form>
         </div>
