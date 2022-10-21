@@ -1,6 +1,6 @@
 <?php
 
-    $url = 'http://localhost/PROJS/VIDEO_AULAS/SERIE/03_APIREST2021/public_html/api';
+    $url = 'http://localhost/API-em-Slim-/public_html/';
 
     $class = '/user';
     $param = '';
