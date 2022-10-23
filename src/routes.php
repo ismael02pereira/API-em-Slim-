@@ -1,6 +1,5 @@
 <?php
   
-
 require "./bootstrap/bootstrap.php";
 
 $app->post('/login', Controller::class . ':UserLogin' );
