@@ -1,0 +1,12 @@
+A API SERVICEs está sendo desenvolvida, com base no estudo. 
+
+A ideia é uma api que trabalhe em varias aplicaçôes tanto quando aplicativos, websites e blogs.
+Uma APi generica que irá atender o maximo interaçôes possiveis, para a segurança estou usando JWTOKEN
+para a validação de usuarios e tempo de sessão.
+
+Em sí a api está voltada para validação de login e permitir acessos para para que usuarios usem os serviços
+da api. Porém de qualquer forma podem estilizar e motificar para a contribuição.
+
+STATUS DE DESENVOLVIMENTO: EM DESENVOLVIMENTO
+
+ 
